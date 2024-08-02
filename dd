@@ -17357,16 +17357,21 @@ http://lunar.pm:8080/KAY/mZMsckmeyH/118315
 #EXTINF:-1,BR: Zoomoo HD
 http://lunar.pm:8080/KAY/mZMsckmeyH/118316
 
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+#EXTINF:-1,PT: SPORT TV +
+http://lunar.pm:8080/KAY/mZMsckmeyH/115959
+#EXTINF:-1,PT: SPORT TV 1
+http://lunar.pm:8080/KAY/mZMsckmeyH/115960
+#EXTINF:-1,PT: SPORT TV 2
+http://lunar.pm:8080/KAY/mZMsckmeyH/115961
+#EXTINF:-1,PT: SPORT TV 3
+http://lunar.pm:8080/KAY/mZMsckmeyH/115962
+#EXTINF:-1,PT: SPORT TV 4
+http://lunar.pm:8080/KAY/mZMsckmeyH/115963
+#EXTINF:-1,PT: SPORT TV 5
+http://lunar.pm:8080/KAY/mZMsckmeyH/115964
+#EXTINF:-1,PT: Sport TV 6
+http://lunar.pm:8080/KAY/mZMsckmeyH/115965
+
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://tv14s.xyz:8080/753468/894568/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
@@ -17400,7 +17405,10 @@ http://tv14s.xyz:8080/753468/894568/16131
 http://tv14s.xyz:8080/753468/894568/57295
 #EXTINF:-1,US ESPN SEC Network 
 http://tv14s.xyz:8080/753468/894568/17608
-
+#EXTINF:-1,US091:SEC Network HD
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3077
+#EXTINF:-1,US092:Big Ten Network
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3076
 #EXTINF:-1,US ACC Network (A)
 http://tv14s.xyz:8080/753468/894568/9273
 #EXTINF:-1,US Big Ten HD
@@ -17421,21 +17429,27 @@ http://tv14s.xyz:8080/753468/894568/17639
 http://tv14s.xyz:8080/753468/894568/1818
 #EXTINF:-1,US Fox Sports 1 
 http://tv14s.xyz:8080/753468/894568/1846
-
+#EXTINF:-1,US084:UFC Network
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3084
+#EXTINF:-1,US074:PAC-12 Bay Area
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3094
+#EXTINF:-1,US012:PAC-12 Washington
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3156
+#EXTINF:-1,US013:PAC-12 Los Angeles
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3155
+#EXTINF:-1,US014:PAC-12 Oregon
+http://mudy02.cularu.com:8880/60mmk220015/38645182/3154
 #EXTINF:-1,US Fox Sports 2 (A)
 http://tv14s.xyz:8080/753468/894568/1847
-
-#EXTINF:-1,US PAC12 Mountain (F)
-http://tv14s.xyz:8080/753468/894568/16493
-#EXTINF:-1,US PAC12 Washington (F)
-http://tv14s.xyz:8080/753468/894568/16571
-#EXTINF:-1,US PAC12 Arizona (F)
-http://tv14s.xyz:8080/753468/894568/16490
-#EXTINF:-1,US PAC12 BayArea (F)
-http://tv14s.xyz:8080/753468/894568/16491
-#EXTINF:-1,US PAC12 LosAngeles (F)
-http://tv14s.xyz:8080/753468/894568/16492
-#EXTINF:-1,US PAC12 Network (F)
-http://tv14s.xyz:8080/753468/894568/16494
-#EXTINF:-1,US PAC12 Oregon (F)
-http://tv14s.xyz:8080/753468/894568/16532
+#EXTINF:-1,SE: EUROSPORT 1
+http://lunar.pm:8080/KAY/mZMsckmeyH/116549
+#EXTINF:-1,SE: EUROSPORT 2
+http://lunar.pm:8080/KAY/mZMsckmeyH/116550
+#EXTINF:-1,UK040:Euro Sport 1 HD
+http://mudy02.cularu.com:8880/60mmk220015/38645182/2917
+#EXTINF:-1,UK041:Euro Sport 2 HD
+http://mudy02.cularu.com:8880/60mmk220015/38645182/2916
+#EXTINF:-1,TR: EUROSPORT 1
+http://lunar.pm:8080/KAY/mZMsckmeyH/116733
+#EXTINF:-1,TR: EUROSPORT 2
+http://lunar.pm:8080/KAY/mZMsckmeyH/116734
