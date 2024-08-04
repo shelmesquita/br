@@ -16678,9 +16678,14 @@ http://tv14s.xyz:8080/753468/894568/16131
 http://tv14s.xyz:8080/753468/894568/57295
 #EXTINF:-1,US ESPN SEC Network 
 http://tv14s.xyz:8080/753468/894568/17608
-
+#EXTINF:-1,US091:SEC Network HD
+http://mohdtv.com:8880/voby2039/46931712/3077
+#EXTINF:-1,US811:ACC NETWORK
+http://mohdtv.com:8880/voby2039/46931712/49954
 #EXTINF:-1,US ACC Network (A)
 http://tv14s.xyz:8080/753468/894568/9273
+#EXTINF:-1,US092:Big Ten Network
+http://mohdtv.com:8880/voby2039/46931712/3076
 #EXTINF:-1,US Big Ten HD
 http://tv14s.xyz:8080/753468/894568/9828
 #EXTINF:-1,US ESPN 2 
@@ -16691,57 +16696,35 @@ http://tv14s.xyz:8080/753468/894568/14197
 http://tv14s.xyz:8080/753468/894568/9802
 #EXTINF:-1,US ESPNU College Sports 
 http://tv14s.xyz:8080/753468/894568/10255
-#EXTINF:-1,USA: Food Network HD
-http://tv14s.xyz:8080/753468/894568/7323
-#EXTINF:-1,US Fox Business Network
-http://tv14s.xyz:8080/753468/894568/17639
-#EXTINF:-1,US Fox News  
-http://tv14s.xyz:8080/753468/894568/1818
+#EXTINF:-1,US034:ESPN-U
+http://mohdtv.com:8880/voby2039/46931712/3134
 #EXTINF:-1,US Fox Sports 1 
 http://tv14s.xyz:8080/753468/894568/1846
-
 #EXTINF:-1,US Fox Sports 2 (A)
 http://tv14s.xyz:8080/753468/894568/1847
-
-#EXTINF:-1,US PAC12 Mountain (F)
-http://tv14s.xyz:8080/753468/894568/16493
-#EXTINF:-1,US PAC12 Washington (F)
-http://tv14s.xyz:8080/753468/894568/16571
-#EXTINF:-1,US PAC12 Arizona (F)
-http://tv14s.xyz:8080/753468/894568/16490
-#EXTINF:-1,US PAC12 BayArea (F)
-http://tv14s.xyz:8080/753468/894568/16491
-#EXTINF:-1,US PAC12 LosAngeles (F)
-http://tv14s.xyz:8080/753468/894568/16492
-#EXTINF:-1,US PAC12 Network (F)
-http://tv14s.xyz:8080/753468/894568/16494
-#EXTINF:-1,US PAC12 Oregon (F)
-http://tv14s.xyz:8080/753468/894568/16532
-
-#EXTINF:-1,EuroSport 1 HD
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/201
-#EXTINF:-1,EuroSport 2 HD
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/200
-#EXTINF:-1,ARENA SPORT 1 HR
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/199
-#EXTINF:-1,ARENA SPORT 2 HR
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/198
-#EXTINF:-1,ARENA SPORT 3 HR
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/197
-#EXTINF:-1,ARENA SPORT 4 HR
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/196
-#EXTINF:-1,Sky Sport Austria 1
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/4544
-#EXTINF:-1,FIGHTBOX
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3108
-#EXTINF:-1,SPORT TV 1 (TEST)
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3111
-#EXTINF:-1,SPORT TV 2 (test)
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3112
-#EXTINF:-1,SPORT TV 3 (test)
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3114
-#EXTINF:-1,SPORT TV 4 (test)
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3115
-#EXTINF:-1,SPORT TV 5 (test)
-http://pubgamers.net:80/DritonHalilhakaj/4xDPeBIIon/3116
-
+#EXTINF:-1,US074:PAC-12 Bay Area
+http://mohdtv.com:8880/voby2039/46931712/3094
+#EXTINF:-1,US934:UFC FIGHT PASS
+http://mohdtv.com:8880/voby2039/46931712/31050
+#EXTINF:-1,US146:FNTSY Sports Network
+http://mohdtv.com:8880/voby2039/46931712/30044
+#EXTINF:-1,US346:PAC-12 Arizona
+http://mohdtv.com:8880/voby2039/46931712/29844
+#EXTINF:-1,FR112:EUROSPORT 1
+http://mohdtv.com:8880/voby2039/46931712/28192
+#EXTINF:-1,FR113:EUROSPORT 2
+http://mohdtv.com:8880/voby2039/46931712/28191
+#EXTINF:-1,FR114:EUROSPORT 360 2
+http://mohdtv.com:8880/voby2039/46931712/28190
+#EXTINF:-1,FR115:EXTREME SPORTS
+http://mohdtv.com:8880/voby2039/46931712/28189
+#EXTINF:-1,DE043:EUROSPORT 1
+http://mohdtv.com:8880/voby2039/46931712/2640
+#EXTINF:-1,DE044:EUROSPORT 2
+http://mohdtv.com:8880/voby2039/46931712/2639
+#EXTINF:-1,DE045:EUROSPORT 2 XTRA
+http://mohdtv.com:8880/voby2039/46931712/2638
+#EXTINF:-1,UK040:Euro Sport 1 HD
+http://mohdtv.com:8880/voby2039/46931712/2917
+#EXTINF:-1,UK041:Euro Sport 2 HD
+http://mohdtv.com:8880/voby2039/46931712/2916
