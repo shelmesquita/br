@@ -16488,163 +16488,7 @@ http://51.79.39.236:80/movie/Wilsonhmbh/Wi5437hb/625024.mp4
 http://51.79.39.236:80/movie/Wilsonhmbh/Wi5437hb/625025.mp4
 #EXTINF:-1,Os Impactados
 http://51.79.39.236:80/movie/Wilsonhmbh/Wi5437hb/625026.mp4
-#EXTINF:-1,BR: Animal Planet HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118202
-#EXTINF:-1,BR: AXN HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118203
-#EXTINF:-1,BR: BAND NEWS HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118205
-#EXTINF:-1,BR: Boomerang HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118208
-#EXTINF:-1,BR: Canal Brasil SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118209
-#EXTINF:-1,BR: CAnal SONY HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118210
-#EXTINF:-1,BR: Combate HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118211
-#EXTINF:-1,BR: Discovery HOME & Health HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118212
-#EXTINF:-1,BR: Discovery KIDS HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118213
-#EXTINF:-1,BR: Discovery Science HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118214
-#EXTINF:-1,BR: Discovery TLC HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118215
-#EXTINF:-1,BR: Discovery World FHD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118216
-#EXTINF:-1,BR: Discovery World SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118217
-#EXTINF:-1,BR: Disney Junior HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118218
-#EXTINF:-1,BR: Disney XD HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118219
-#EXTINF:-1,BR: ESPN 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118220
-#EXTINF:-1,BR: ESPN Brasil HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118221
-#EXTINF:-1,BR: ESPN Extra HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118222
-#EXTINF:-1,BR: FOOD Network HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118224
-#EXTINF:-1,BR: FOX LIFE HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118225
-#EXTINF:-1,BR: FOX Premium 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118226
-#EXTINF:-1,BR: FOX Sports 1 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118227
-#EXTINF:-1,BR: FOX Sports 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118228
-#EXTINF:-1,BR: Futura HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118229
-#EXTINF:-1,BR: FX HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118230
-#EXTINF:-1,BR: Globo NEWS HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118236
-#EXTINF:-1,BR: GNT HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118254
-#EXTINF:-1,BR: HBO 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118255
-#EXTINF:-1,BR: HBO Family HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118256
-#EXTINF:-1,BR: HBO HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118257
-#EXTINF:-1,BR: HBO PLUS HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118258
-#EXTINF:-1,BR: HBO POP HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118259
-#EXTINF:-1,BR: HGTV HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118260
-#EXTINF:-1,BR: History Channel HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118261
-#EXTINF:-1,BR: ID Discovery HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118262
-#EXTINF:-1,BR: MAIS Globosat SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118263
-#EXTINF:-1,BR: MTV HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118264
-#EXTINF:-1,BR: MTV LIVE HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118265
-#EXTINF:-1,BR: Multishow HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118266
-#EXTINF:-1,BR: Music BOX Brazil SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118267
-#EXTINF:-1,BR: NAT GEO WILD HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118268
-#EXTINF:-1,BR: Natgeo WILD SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118269
-#EXTINF:-1,BR: National Geographic HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118270
-#EXTINF:-1,BR: National Geographic KIDS HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118271
-#EXTINF:-1,BR: NICK JR HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118272
-#EXTINF:-1,BR: Paramount Channel HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118273
-#EXTINF:-1,BR: Premiere 1 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118274
-#EXTINF:-1,BR: Premiere 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118275
-#EXTINF:-1,BR: Premiere 3 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118276
-#EXTINF:-1,BR: Premiere 4 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118277
-#EXTINF:-1,BR: Premiere Clubes HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118278
-#EXTINF:-1,BR: REDE Brasil HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118285
-#EXTINF:-1,BR: Space HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118291
-#EXTINF:-1,BR: Sport TV 3 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118292
-#EXTINF:-1,BR: SporTV 1 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118293
-#EXTINF:-1,BR: SporTV 2 FHD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118294
-#EXTINF:-1,BR: SporTV 2 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118295
-#EXTINF:-1,BR: SporTV 3 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118296
-#EXTINF:-1,BR: TCM SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118297
-#EXTINF:-1,BR: Telecine Action HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118298
-#EXTINF:-1,BR: Telecine CULT HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118299
-#EXTINF:-1,BR: Telecine FUN HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118300
-#EXTINF:-1,BR: Telecine FUN SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118301
-#EXTINF:-1,BR: Telecine Pipoca HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118302
-#EXTINF:-1,BR: Telecine Touch HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118303
-#EXTINF:-1,BR: TNT HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118304
-#EXTINF:-1,BR: Tooncast HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118307
-#EXTINF:-1,BR: UNiversal Channel SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118311
-#EXTINF:-1,BR: VH1 HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118312
-#EXTINF:-1,BR: VH1 MEGA HITS SD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118313
-#EXTINF:-1,BR: VIVA HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118314
-#EXTINF:-1,BR: Woohoo HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118315
-#EXTINF:-1,BR: Zoomoo HD
-http://lunar.pm:8080/KAY/mZMsckmeyH/118316
 
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://tv14s.xyz:8080/753468/894568/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
@@ -16653,6 +16497,29 @@ http://tv14s.xyz:8080/753468/894568/167743
 http://tv14s.xyz:8080/753468/894568/167744
 #EXTINF:-1,PT: SPORT TV 4 FHD
 http://tv14s.xyz:8080/753468/894568/167745
+#EXTINF:-1,PT058:Sport TV 1 HD
+http://mohdtv.com:8880/voby2039/46931712/3192
+#EXTINF:-1,PT059:Sport TV 2 HD
+http://mohdtv.com:8880/voby2039/46931712/3191
+#EXTINF:-1,PT060:Sport TV 3 HD
+http://mohdtv.com:8880/voby2039/46931712/3190
+#EXTINF:-1,PT061:Sport TV 4 HD
+http://mohdtv.com:8880/voby2039/46931712/3189
+#EXTINF:-1,PT062:Sport TV 5 HD
+http://mohdtv.com:8880/voby2039/46931712/3188
+#EXTINF:-1,PT063:SPORT TV+
+http://mohdtv.com:8880/voby2039/46931712/3187
+#EXTINF:-1,PT064:Sporting TV
+http://mohdtv.com:8880/voby2039/46931712/3186
+
+#EXTINF:-1,PT098:SPORT TV 1 FHD
+http://mohdtv.com:8880/voby2039/46931712/29392
+#EXTINF:-1,PT099:SPORT TV 2 FHD
+http://mohdtv.com:8880/voby2039/46931712/29391
+#EXTINF:-1,PT100:SPORT TV 3 FHD
+http://mohdtv.com:8880/voby2039/46931712/29390
+#EXTINF:-1,PT101:SPORT TV 4 FHD
+http://mohdtv.com:8880/voby2039/46931712/29389
 
 #EXTINF:-1,CA TSN 1 (E)
 http://tv14s.xyz:8080/753468/894568/57292
