@@ -16543,6 +16543,26 @@ http://tv14s.xyz:8080/753468/894568/57467
 http://tv14s.xyz:8080/753468/894568/16131
 #EXTINF:-1,CA TSN 5 
 http://tv14s.xyz:8080/753468/894568/57295
+
+#EXTINF:-1,US ESPN SEC Network 
+http://tv14s.xyz:8080/qu2bPb1/014501/17608
+#EXTINF:-1,US YES Network
+http://tv14s.xyz:8080/qu2bPb1/014501/57972
+#EXTINF:-1,US ACC Network (A)
+http://tv14s.xyz:8080/qu2bPb1/014501/9273
+#EXTINF:-1,US ESPN 2 
+http://tv14s.xyz:8080/qu2bPb1/014501/2210
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv14s.xyz:8080/qu2bPb1/014501/14197
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv14s.xyz:8080/qu2bPb1/014501/9802
+#EXTINF:-1,US ESPNU College Sports 
+http://tv14s.xyz:8080/qu2bPb1/014501/10255
+#EXTINF:-1,US Fox Sports 1 
+http://tv14s.xyz:8080/qu2bPb1/014501/1846
+#EXTINF:-1,US Fox Sports 2 (A)
+http://tv14s.xyz:8080/qu2bPb1/014501/1847
+
 #EXTINF:-1,US ESPN SEC Network 
 http://tv14s.xyz:8080/753468/894568/17608
 #EXTINF:-1,US091:SEC Network HD
