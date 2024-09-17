@@ -1,14 +1,30 @@
 #EXTM3U
+
+#EXTINF:-1,BR198:History Channel FHD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65753
+#EXTINF:-1,BR057:History HD
+http://vo01.mohdtv.com:8880/voby5186/18384882/2475
+#EXTINF:-1,BR199:History Channel SD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65754
+#EXTINF:-1,BR184:H2 FHD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65739
+#EXTINF:-1,BR051:H2 HD
+http://vo01.mohdtv.com:8880/voby5186/18384882/2481
+#EXTINF:-1,BR185:H2 SD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65740
+
+#EXTINF:-1,BR145:Discovery World FHD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65700
+#EXTINF:-1,BR025:Discovery World HD
+http://vo01.mohdtv.com:8880/voby5186/18384882/2507
+#EXTINF:-1,BR146:Discovery World SD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65701
+#EXTINF:-1,BR058:Investigacao Discovery HD
+http://vo01.mohdtv.com:8880/voby5186/18384882/2474
+#EXTINF:-1,BR201:Investigacao Discovery SD
+http://vo01.mohdtv.com:8880/voby5186/18384882/65756
 #EXTINF:-1,A&E 4K
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/225
-#EXTINF:-1,AMAZON ESPORTES 1
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1067
-#EXTINF:-1,AMAZON ESPORTES 2
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1010
-#EXTINF:-1,AMAZON ESPORTES 3
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1158
-#EXTINF:-1,AMAZON ESPORTES 4
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1159
 #EXTINF:-1,AMC 4K
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/228
 #EXTINF:-1,AMC HD
@@ -79,18 +95,6 @@ http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/122
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/123
 #EXTINF:-1,CURTA HD
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/100
-#EXTINF:-1,DAZN 1
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/206
-#EXTINF:-1,DAZN 1 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/821
-#EXTINF:-1,DAZN 2
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/205
-#EXTINF:-1,DAZN 2 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/822
-#EXTINF:-1,DAZN 3 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/823
-#EXTINF:-1,DAZN 4 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/824
 #EXTINF:-1,DISCOVERY CHANNEL 4K
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/65
 #EXTINF:-1,DISCOVERY H&H 4K
@@ -131,32 +135,6 @@ http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/101
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/102
 #EXTINF:-1,E! HD
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/103
-#EXTINF:-1,EPTV RIBEIRAO PRETO
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1011
-#EXTINF:-1,ESPN  4K
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/130
-#EXTINF:-1,ESPN  HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/131
-#EXTINF:-1,ESPN 2 4K
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/129
-#EXTINF:-1,ESPN 2 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/135
-#EXTINF:-1,ESPN 3 4K
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/127
-#EXTINF:-1,ESPN 3 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/126
-#EXTINF:-1,ESPN 4 4K
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/142
-#EXTINF:-1,ESPN 4 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/143
-#EXTINF:-1,ESPN 4 HDR
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/899
-#EXTINF:-1,ESPN 6 4K
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/133
-#EXTINF:-1,ESPN 6 HD
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/134
-#EXTINF:-1,FASHION TV HD 
-http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/878
 #EXTINF:-1,FEC 01
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1168
 #EXTINF:-1,FEC 02
@@ -532,30 +510,6 @@ http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1274
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1275
 #EXTINF:-1,DISNEY+ 01
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/1276
-#EXTINF:-1,Delorean - Do Motor ao Crime (2019)
-http://51.79.39.236:80/movie/Wilsonhmbh/Wi5437hb/622525.mp4
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://tv14s.xyz:8080/753468/894568/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://tv14s.xyz:8080/753468/894568/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://tv14s.xyz:8080/753468/894568/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://tv14s.xyz:8080/753468/894568/167745
-#EXTINF:-1,PT058:Sport TV 1 HD
-http://mohdtv.com:8880/voby2039/46931712/3192
-#EXTINF:-1,PT059:Sport TV 2 HD
-http://mohdtv.com:8880/voby2039/46931712/3191
-#EXTINF:-1,PT060:Sport TV 3 HD
-http://mohdtv.com:8880/voby2039/46931712/3190
-#EXTINF:-1,PT061:Sport TV 4 HD
-http://mohdtv.com:8880/voby2039/46931712/3189
-#EXTINF:-1,PT062:Sport TV 5 HD
-http://mohdtv.com:8880/voby2039/46931712/3188
-#EXTINF:-1,PT063:SPORT TV+
-http://mohdtv.com:8880/voby2039/46931712/3187
-#EXTINF:-1,PT064:Sporting TV
-http://mohdtv.com:8880/voby2039/46931712/3186
 
 #EXTINF:-1,PT098:SPORT TV 1 FHD
 http://mohdtv.com:8880/voby2039/46931712/29392
